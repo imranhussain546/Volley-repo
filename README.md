@@ -19,10 +19,10 @@ dependencies {
 
 ### Api used
 
-> Insert=https://appd2u.000webhostapp.com/insert.php
-> Fetch=https://appd2u.000webhostapp.com/fetch.php
-> Update=https://appd2u.000webhostapp.com/update.php
-> Delete=https://appd2u.000webhostapp.com/delete.php
+* Insert=https://appd2u.000webhostapp.com/insert.php
+* Fetch=https://appd2u.000webhostapp.com/fetch.php
+* Update=https://appd2u.000webhostapp.com/update.php
+* Delete=https://appd2u.000webhostapp.com/delete.php
 
 
 #### How to use
